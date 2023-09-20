@@ -1,0 +1,37 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.card_div {
+  padding: 30px;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  display: block;
+  border: 1px solid black;
+  border-radius: 2px;
+  padding: 10px;
+  margin: 10px;
+}
+button {
+  display: block;
+  border: 1px solid black;
+  border-radius: 2px;
+  padding: 10px;
+  margin: 10px;
+}
+.age_div {
+  font-size: 24px;
+  margin-left: 10px;
+}
